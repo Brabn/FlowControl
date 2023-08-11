@@ -65,13 +65,15 @@ A separate panel is designed to select the port to which the controller will be 
 ![Flow control system cotrol application. Text log of controlled parameters](https://github.com/Brabn/FlowControl/blob/main/Control_application/Flow_control.Table_values.png)
  
 * Application settings:
+  
 ![Flow control system cotrol application. Settings](https://github.com/Brabn/FlowControl/blob/main/Control_application/Flow_control.Settings.png)
   - Manual start, stop and reset of controller
   - Change of sensors frequency 
   - Change noise filtering strength (approximation of several sensor readings in a certain period of time to avoid random peaks and dips in values)
   - Smoothing lines on graphs
   - Manual sending command to controller and receiving answer
-* Display parameters for graphical values (independently for each parameter): 
+* Display parameters for graphical values (independently for each parameter):
+  
 ![Flow control system cotrol application. Line display Settings](https://github.com/Brabn/FlowControl/blob/main/Control_application/Flow_control.Graph_Settings.png)
   - Enabling the display of each parameter
   - Change color and thickness of line
