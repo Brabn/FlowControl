@@ -90,9 +90,9 @@ A separate panel is designed to select the port to which the controller will be 
 ![Flow control system wiring diagram](https://github.com/Brabn/FlowControl/blob/main/Wiring_diagram/Flow_control.Wiring_diagramEN.png)
 
 ## Possible further improvements
-* Remote connection (via Bluetooth, IR or radio channel)
-* automatic control according to various patterns, including emergency shutdown upon reaching the critical values of the parameters.
-* Web interface for remote connection
-* SMS informing and control using GSM module.
-* Smooth change of engine operation parameters incl. smooth start.
-* Control program usability improvements
+- [ ] Remote connection (via Bluetooth, IR or radio channel)
+- [ ] automatic control according to various patterns, including emergency shutdown upon reaching the critical values of the parameters.
+- [ ] Web interface for remote connection
+- [ ] SMS informing and control using GSM module.
+- [ ] Smooth change of engine operation parameters incl. smooth start.
+- [ ] Control program usability improvements
