@@ -1,5 +1,5 @@
 # FlowControl
-[The water pumping control system for installation on a pipeline for liquids pumping](https://techi-news.com/Projects/Water-pumping-control-system). 
+[The water pumping control system](https://techi-news.com/Projects/Water-pumping-control-system) for installation on a pipeline for liquids pumping.
 
 Includes fluid flow sensors, motor current sensor and control relay for online control of process parameters, logging, emergency automatic and manual control of pumping.
 
